@@ -86,7 +86,8 @@ harmonies = \chordmode {
   \header {
   piece = "In a calm bossa nova rhythm"
   copyright = "Words copyright Israel Movement for Progressive Judaism,
-  music copyright Creative Commons 1.0 Universal"
+  music licensed under the Creative Commons Attribution 4.0
+  International License."
   }
 }
 

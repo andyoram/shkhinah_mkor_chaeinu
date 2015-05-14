@@ -28,9 +28,9 @@ melody = \relative c' {
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r4 r8
   dis8 dis e fis8. e16 a gis fis8 fis d16 e fis8 e gis16 cis,8.~ cis4 r4
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r4 r4.
-  fis16 gis a a a8 a16 a a a a8 gis gis gis cis16 cis8. r4 r4.
-  fis,16 gis a a a8 a16 a a a a8 gis gis gis gis16 gis8. r4 r4.
-  fis16 gis a a a8 a16 a a a a8 gis gis gis gis16 gis8. r4 r2
+  fis16 gis a a a8 a16 a a a a8 a a gis cis16 cis8. r4 r4.
+  fis,16 gis a a a8 a16 a a a a8 a a gis a16 a8. r4 r4.
+  fis16 gis a a a8 a16 a a a a8 a a a a16 a8. r4 r2
 }
 
 text = \lyricmode {
@@ -69,8 +69,9 @@ harmonies = \chordmode {
      b2:min3.7 b:dim cis:min3.7 fis:min3.7 b:min3.7 c:dim a1:maj7
      b2:min3.7 b:dim a:maj7 fis:min3.7 b:min3.7 e:9 a1:6
      a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
-     a2:maj7 a:6 b1:min b2:min3.7 e:7 a1:7
-     b2:min3.7 e:7 a:min3.7+ a:dim b:min3.7 fis4:dim/c e:7 a1:7
+     a2:maj7 a:6 b1:min b2:min3.7 c4:dim e:7 fis1:7
+     b2:min3.7 c4:dim e:7 a2:min3.7+ a:dim
+     b2:min3.7 c:dim a1:6
 }
 
 \score {

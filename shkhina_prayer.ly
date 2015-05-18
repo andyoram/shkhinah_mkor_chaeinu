@@ -12,7 +12,7 @@ melody = \relative c' {
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8.~ fis4 r4 r8.
   dis16 fis8. e16 a gis~ gis fis16 fis fis d e fis8 e gis16 cis,8.~ cis4 r4
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r8
-  fis8 e4 e8 e fis8. gis16 fis8 cis fis8. gis16 fis8 cis fis16 e8.~ e4 r4
+  fis8 e4. e8 fis8. gis16 fis8 cis fis8. gis16 fis8 cis fis16 e8.~ e4 r4
   cis8. dis16 e4. fis8 dis4. cis8 e16 dis8. r4
   cis4 dis8 e8 fis16 fis fis fis fis8 e fis8. gis16 a8( b8) a16 gis8.~ gis4 r4
   cis,8. dis16 e4. dis8 fis4. gis8 cis,16 dis8.~ dis4 r4
@@ -22,10 +22,10 @@ melody = \relative c' {
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r8
   fis8 e8. e16 e8 e fis8 fis16 gis16 fis8. cis16 fis8( gis) fis8 cis fis16 e8.~ e4 r4
   gis8. a16 b4. cis8 gis4. f8 cis'16 b8.~ b4 r8
-  cis8 a8. fis16 a16 a a a d,8 e gis8 gis16 gis16~ gis8 dis gis16 fis8.~ fis4 r4
+  cis8 a8. fis16 a16 a a a d,8 e gis8 gis16 gis16~ gis8 dis gis16 e8.~ e4 r4
   gis8. a16 b4. cis8 gis4. f8 b16 a8.~ a4 r4.
-  a8 d,16 d d d d8 e fis b16 b b8 fis a16 a8.~ a4 r4
-  e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r4 r8
+  a8 d,16 d d d d8 e fis b16 b b8 fis b16 a8.~ a4 r4
+  e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r4.
   dis8 dis e fis8. e16 a gis fis8 fis d16 e fis8 e gis16 cis,8.~ cis4 r4
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r4 r4.
   fis16 gis a a a8 a16 a a a a8 a a gis cis16 cis8. r4 r4.
@@ -37,7 +37,7 @@ text = \lyricmode {
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,
   Sh' -- mi ko -- lei -- nu, chu -- si, v' -- ra -- cha -- mi a -- lei -- nu.
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,
-  Zi -- kh' -- ri, ki ba -- na -- ikh uv -- no -- ta -- ikh a -- nach -- nu.
+  Zi -- khri, ki ba -- na -- ikh uv -- no -- ta -- ikh a -- nach -- nu.
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,
   Chan' -- khi o -- ta -- nu l' -- ha -- kir b -- mig -- 'b' -- lo -- tei -- nu.
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,
@@ -62,15 +62,15 @@ harmonies = \chordmode {
      d2:maj7 d:min3.6+ cis:3-.7 fis:dim5.7/c b:3-.7 e:7
      a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
      a2:maj7 a:6 gis:7 cis:min b1:9/fis e:6
-     fis2:min3.7 b:7/fis e:min3.7 e:6 dis:dim5.7 b:7/dis e1:maj7
-     fis2:min3.7 b:7/fis e:min3.7 e:dim fis:7 b:9 e1:maj7
+     fis2:min3.7 b:7/fis e:maj7 e:6 dis:dim5.7 b:7/dis e1:maj7
+     fis2:min3.7 b:7/fis e:maj7 e:dim fis:7 b:9 e1:maj7
      a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
      a2:maj7 a:6 gis:7 cis:min b1:9/fis e:6
-     b2:min3.7 b:dim cis:min3.7 fis:min3.7 b:min3.7 c:dim a1:maj7
+     b2:min3.7 b:dim cis:min3.7 fis:min3.7 b:min3.7 c:aug5 a1:maj7
      b2:min3.7 b:dim a:maj7 fis:min3.7 b:min3.7 e:9 a1:6
      a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
      a2:maj7 a:6 b1:min b2:min3.7 c4:dim e:7 fis1:7
-     b2:min3.7 c4:dim e:7 a2:min3.7+ a:dim
+     b2:min3.7 c4:dim e:7 a2:min3.7+ a:6
      b2:min3.7 c:dim a1:6
 }
 

@@ -22,7 +22,7 @@ melody = \relative c' {
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r8
   fis8 e8. e16 e8 e fis8 fis16 gis16 fis8. cis16 fis8( gis) fis8 cis fis16 e8.~ e4 r4
   gis8. a16 b4. cis8 gis4. f8 cis'16 b8.~ b4 r8
-  cis8 a8. fis16 a16 a a a d,8 e gis8 gis16 gis16~ gis8 dis gis16 e8.~ e4 r4
+  cis8 a8. fis16 a16 a a a d,8 e gis8 gis16 gis16~ gis8 dis fis16 e8.~ e4 r4
   gis8. a16 b4. cis8 gis4. f8 b16 a8.~ a4 r4.
   a8 d,16 d d d d8 e fis b16 b b8 fis b16 a8.~ a4 r4
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r4.
@@ -69,7 +69,7 @@ harmonies = \chordmode {
      b2:min3.7 b:dim cis:min3.7 fis:min3.7 b:min3.7 c:aug5 a1:maj7
      b2:min3.7 b:dim a:maj7 fis:min3.7 b:min3.7 e:9 a1:6
      a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
-     a2:maj7 a:6 b1:min b2:min3.7 c4:dim e:7 fis1:7
+     a2:maj7 a:6 b1:min b2:min3.7 c4:dim e:7 fis2:7/cis fis:6/cis
      b2:min3.7 c4:dim e:7 a2:min3.7+ a:6
      b2:min3.7 c:dim a1:6
 }
@@ -87,8 +87,8 @@ harmonies = \chordmode {
   \header {
   piece = "In a calm bossa nova rhythm"
   copyright = "Words copyright Israel Movement for Progressive Judaism,
-  music licensed under the Creative Commons Attribution 4.0
-  International License."
+  music licensed under the Creative Commons Attribution 4.0 International License.
+  May 21, 2015"
   }
 }
 

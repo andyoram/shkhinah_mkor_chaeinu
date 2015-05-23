@@ -61,16 +61,16 @@ text = \lyricmode {
 harmonies = \chordmode {
      d2:maj7 d:min3.6+ cis:3-.7 fis:dim5.7/c b:3-.7 e:7
      a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
-     a2:maj7 a:6 gis:7 cis:min b1:9/fis e:6
+     a2:maj7 a:6 gis:min3.7 cis:min b1:9/fis e:6
      fis2:min3.7 b:7/fis e:maj7 e:6 dis:dim5.7 b:7/dis e1:maj7
      fis2:min3.7 b:7/fis e:maj7 e:dim fis:7 b:9 e1:maj7
      a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
-     a2:maj7 a:6 gis:7 cis:min b1:9/fis e:6
+     a2:maj7 a:6 gis:min3.7 cis:min b1:9/fis e:6
      b2:min3.7 b:dim cis:min3.7 fis:min3.7 b:min3.7 c:aug5 a1:maj7
      b2:min3.7 b:dim a:maj7 fis:min3.7 b:min3.7 e:9 a1:6
      a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
      a2:maj7 a:6 b1:min b2:min3.7 c4:dim e:7 fis2:7/cis fis:6/cis
-     b2:min3.7 c4:dim e:7 a2:min3.7+ a:6
+     b2:min3.7 c4:dim e:7 a2:min3.7 a:dim
      b2:min3.7 c:dim a1:6
 }
 

@@ -16,7 +16,7 @@ melody = \relative c' {
   cis8. dis16 e4. fis8 dis4. cis8 e16 dis8. r4
   cis4 dis8 e8 fis16 fis fis fis fis8 e fis8. gis16 a8( b8) a16 gis8.~ gis4 r4
   cis,8. dis16 e4. dis8 fis4. gis8 cis,16 dis8.~ dis4 r4
-  cis8 dis e fis fis16 fis16 e8 gis4. fis8 cis16 e16~ e4 r4.
+  cis8 dis e e e16 e fis8 gis4. fis8 cis16 e16~ e4 r4.
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8.~ fis4 r4.
   dis8 fis8. e16 a16 gis16~ gis8 fis16 fis d8 e fis gis16 cis,8.~ cis4 r4
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r8
@@ -59,19 +59,19 @@ text = \lyricmode {
 }
 
 harmonies = \chordmode {
-     d2:maj7 d:min3.6+ cis:3-.7 fis:dim5.7/c b:3-.7 e:7
-     a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
-     a2:maj7 a:6 gis:min3.7 cis:min b1:9/fis e:6
-     fis2:min3.7 b:7/fis e:maj7 e:6 dis:dim5.7 b:7/dis e1:maj7
-     fis2:min3.7 b:7/fis e:maj7 e:dim fis:7 b:9 e1:maj7
-     a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
-     a2:maj7 a:6 gis:min3.7 cis:min b1:9/fis e:6
-     b2:min3.7 b:dim cis:min3.7 fis:min3.7 b:min3.7 c:aug5 a1:maj7
-     b2:min3.7 b:dim a:maj7 fis:min3.7 b:min3.7 e:9 a1:6
-     a2:maj7 a:6 fis1:dim7 b2:min3.7/fis e2:9 a1:maj7
-     a2:maj7 a:6 b1:min b2:min3.7 c4:dim e:7 fis2:min3.7/cis fis:min3.6+/cis
-     b2:min3.7 c4:dim e:7 a2:min3.7 a:dim
-     b2:min3.7 c:dim a1:6
+     d2:maj7 d:min3.7 cis:min3.7 fis:dim7/c b:3-.7 e:7
+     a2:maj7 a:6 a:dim7 b2:min3.7/fis e2:9 a1:maj7
+     a2:maj7 a:6 gis:7 cis:min b1:9/fis e:6
+     fis2:min3.7 b:7/fis e:maj7 e:6 dis:dim7 b:7/dis e1:maj7
+     fis2:min3.7 b:7/fis e:maj7 e:dim7 fis:7 b:9 e1:6
+     a2:maj7 a:6 a:dim7 b2:min3.7/fis e2:9 a1:maj7
+     a2:maj7 a:6 gis:7 cis:min b1:9/fis e:6
+     b2:min3.7 b:dim7 cis:min3.7 fis:min3.7 b:min3.7 c:aug5 a1:maj7
+     b2:min3.7 b:dim7 a:maj7 fis:min3.7 b:min3.7 e:9 a1:6
+     a2:maj7 a:6 a:dim7 b2:min3.7/fis e2:9 a1:maj7
+     a2:maj7 a:6 b1:min b2:min3.9 c4:dim7 e:7 fis2:min3.7/cis fis:min3.6+/cis
+     b2:min3.9 c4:dim7 e:7 a2:min3.7 a:dim7
+     b2:min3.9 c:dim7 a1:6
 }
 
 \score {

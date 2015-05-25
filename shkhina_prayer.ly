@@ -80,7 +80,8 @@ harmonies = \chordmode {
       \set chordChanges = ##t
       \harmonies
     }
-    \new Voice = "one" { \autoBeamOff \melody }
+    \new Voice = "one" { \melody
+                         \set melismaBusyProperties = #'() }
     \new Lyrics \lyricsto "one" \text
   >>
   \layout { }

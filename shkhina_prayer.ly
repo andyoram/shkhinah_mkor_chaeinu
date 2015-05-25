@@ -59,7 +59,7 @@ text = \lyricmode {
 }
 
 harmonies = \chordmode {
-     d2:maj7 d:min3.7 cis:min3.7 fis:dim7/c b:3-.7 e:7
+     d2:maj7 d:min3.7 cis:min3.7 c:dim7 b:3-.7 e:7
      a2:maj7 a:6 a:dim7 b2:min3.7/fis e2:9 a1:maj7
      a2:maj7 a:6 gis:7 cis:min b1:9/fis e:6
      fis2:min3.7 b:7/fis e:maj7 e:6 dis:dim7 b:7/dis e1:maj7

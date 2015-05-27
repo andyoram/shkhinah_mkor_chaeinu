@@ -5,7 +5,7 @@
 
 melody = \relative c' {
   \clef treble
-  \key e \major
+  \key a \major
   \time 4/4
 
   r1 r1 r2 r4
@@ -78,9 +78,9 @@ harmonies = \chordmode {
   <<
     \new ChordNames {
       \set chordChanges = ##t
-      \harmonies
+  \transpose a f \harmonies
     }
-    \new Voice = "one" { \melody
+    \new Voice = "one" { \transpose a f \melody
                          \set melismaBusyProperties = #'() }
     \new Lyrics \lyricsto "one" \text
   >>

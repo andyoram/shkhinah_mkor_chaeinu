@@ -45,7 +45,7 @@ text = \lyricmode {
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,
   Lam -- di o -- ta -- nu ra -- cha -- mim u -- tz' -- da -- kah.
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,
-  A -- si l -- ma'an ha -- e' -- e -- va -- kim l' -- sha -- lom ul' --  tze -- dek.
+  A -- si l -- ma'an ha -- e' -- e -- va -- kim l' -- sha -- lom u' --  tze -- dek.
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,
   Hif' -- khi ev -- lei -- nu l' -- sa -- son v' -- go -- nei -- nu l' -- sim' -- chah.
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,

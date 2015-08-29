@@ -62,8 +62,8 @@ harmonies = \chordmode {
      d2:maj7 d:min3.7 cis:min3.7 c:dim7 b:3-.7 e:7
      a2:maj7 a:6 a1:dim7 b2:min3.7 e2:9 a1:maj7
      a2:maj7 a:6 gis:7 cis:min b1:9 e:6
-     fis2:min3.7 b:7/fis e:maj7 e:6 dis:dim7 b:7/dis e1:maj7
-     fis2:min3.7 b:7/fis e:maj7 e:dim7 fis:min7 b:9 e1:6
+     fis2:min3.7/a b:7 e:maj7 e:6 dis:dim7 b:7/dis e1:maj7
+     fis2:min3.7/a b:7 e:maj7 e:dim7 fis:min7/a b:9 e1:6
      a2:maj7 a:6 a1:dim7 b2:min3.7 e2:9 a1:maj7
      a2:maj7 a:6 gis:7 cis:min b1: e:6
      b2:min3.7 b:dim7 cis:min3.7 fis:min3.7 b:min3.7 c:aug5 a1:maj7

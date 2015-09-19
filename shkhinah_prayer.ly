@@ -53,9 +53,9 @@ text = \lyricmode {
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,
   Kab' -- tzi ba -- nikh mei -- 'ar -- ba kan -- fot ha' -- a -- retz lig' -- vo -- lam.
   Sh' -- khi -- nah m' -- kor cha' -- ei -- nu,
-  Ha -- sh' -- li -- mi bin -- yan y' -- ru -- sha -- la -- im ir kad --  she -- inu.
-  Ha -- sh' -- li -- mi bin -- yan y' -- ru -- sha -- la -- im ir kad --  she -- inu.
-  Ha -- sh' -- li -- mi bin -- yan y' -- ru -- sha -- la -- im ir kad --  she -- inu.
+  Ha -- sh' -- li -- mi bin -- yan y' -- ru -- sha -- la -- im ir ha -- ko -- desh.
+  Ha -- sh' -- li -- mi bin -- yan y' -- ru -- sha -- la -- im ir ha -- ko -- desh.
+  Ha -- sh' -- li -- mi bin -- yan y' -- ru -- sha -- la -- im ir ha -- ko -- desh.
 }
 
 harmonies = \chordmode {

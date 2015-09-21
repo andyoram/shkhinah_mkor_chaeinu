@@ -76,9 +76,8 @@ harmonies = \chordmode {
 
 \score {
   <<
-    \new ChordNames {
-      \set chordChanges = ##t
-  \transpose a f \harmonies
+    \chords {
+       \transpose a f \harmonies
     }
     \new Voice = "one" { \transpose a f \melody
                          \set melismaBusyProperties = #'() }

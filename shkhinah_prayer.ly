@@ -80,7 +80,7 @@ harmonies = \chordmode {
        \transpose a f \harmonies
     }
     \new Voice = "one" { \transpose a f \melody
-                         \set melismaBusyProperties = #'() }
+    }
     \new Lyrics \lyricsto "one" \text
   >>
   \layout { }

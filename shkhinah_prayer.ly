@@ -1,12 +1,17 @@
 \header {
   title = "Sh'khinah, mkor cha'einu"
   composer = "Andrew Oram"
+  piece = "In a calm bossa nova rhythm"
+  copyright = "Words copyright Israel Movement for Progressive Judaism, music licensed under the Creative Commons Attribution 4.0 International License. May 21, 2015"
+}
+
+global = {
+  \key a \major
+  \time 4/4
 }
 
 melody = \relative c' {
   \clef treble
-  \key a \major
-  \time 4/4
 
   r1 r1 r2 r4
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8.~ fis4 r4 r8.
@@ -84,12 +89,6 @@ harmonies = \chordmode {
     \new Lyrics \lyricsto "one" \text
   >>
   \layout { }
-  \header {
-  piece = "In a calm bossa nova rhythm"
-  copyright = "Words copyright Israel Movement for Progressive Judaism,
-  music licensed under the Creative Commons Attribution 4.0 International License.
-  May 21, 2015"
-  }
 }
 
 \version "2.18.2"

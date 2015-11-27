@@ -72,8 +72,7 @@ harmonies = \chordmode {
 \score {
   <<
     \chords {
-      \transpose a f
-	\harmonies
+      \transpose a f \harmonies
     }
     \new Voice = "one" { \transpose a f \melody
     }

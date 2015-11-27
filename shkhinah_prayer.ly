@@ -23,9 +23,9 @@ melody = \relative c' {
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r4.
   dis8 dis e fis8. e16 a gis fis8 fis d16 e fis8 e gis16 cis,8.~ cis4 r4
   e8. fis16 gis4. a8 fis4. e8 gis16 fis8. r4 r4.
-  fis16 gis a a a8 a16 a a a a8 a a gis cis16 cis8. r4 r4.
-  fis,16 gis a a a8 a16 a a a a8 a a gis a16 a8. r4 r4.
-  fis16 gis a a a8 a16 a a a a8 a a a a16 a8. r4 r2 \bar "|."
+  fis16 gis a a a8 a16 a a a a8 a a8. gis16 cis16 cis8. r4 r4.
+  fis,16 gis a a a8 a16 a a a a8 a a8. gis16 a16 a8. r4 r4.
+  fis16 gis a a a8 a16 a a a a8 a a8. a16 a16 a8. r4 r2 \bar "|."
 }
 
 text = \lyricmode {
@@ -72,7 +72,8 @@ harmonies = \chordmode {
 \score {
   <<
     \chords {
-       \transpose a f \harmonies
+      \transpose a f
+	\harmonies
     }
     \new Voice = "one" { \transpose a f \melody
     }
